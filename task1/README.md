@@ -7,7 +7,7 @@ This project simulates an event with biased outcomes based on given probabilitie
 1. Clone the repository:
 
 ```
-[git clone](https://github.com/Manraj-singh/nodejs-onlinesales.ai.git)
+git clone https://github.com/Manraj-singh/nodejs-onlinesales.ai.git
 ```
 
 2. Navigate to the project directory:
